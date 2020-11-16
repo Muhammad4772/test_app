@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyString
+  tasktype: MyString
+  team_lead: one
+  project: one
+
+two:
+  name: MyString
+  description: MyString
+  tasktype: MyString
+  team_lead: two
+  project: two

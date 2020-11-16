@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  project2: one
+  managerz: one
+
+two:
+  project2: two
+  managerz: two
